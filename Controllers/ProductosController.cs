@@ -13,7 +13,7 @@ public class ProductosController : ControllerBase
     private readonly IMediator _mediator;
     private readonly ILogger<ProductosController> _logger;
 
-    public ProductosController(IMediator mediator, ILogger<ProductosController> logger
+    public ProductosController(IMediator mediator, ILogger<ProductosController> logger)
     {
         _mediator = mediator;
         _logger = logger;
