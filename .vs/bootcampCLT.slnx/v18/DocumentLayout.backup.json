@@ -1,0 +1,547 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\k8s\\helm\\templates\\deployment.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:k8s\\helm\\templates\\deployment.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\k8s\\helm\\templates\\configmap.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:k8s\\helm\\templates\\configmap.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\k8s\\helm\\values.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:k8s\\helm\\values.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\k8s\\helm\\chart.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:k8s\\helm\\chart.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\k8s\\helm\\templates\\secret.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:k8s\\helm\\templates\\secret.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\k8s\\helm\\templates\\service.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:k8s\\helm\\templates\\service.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\postgres-service.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:postgres-service.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\postgres-deployment.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:postgres-deployment.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\bootcampclt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:bootcampclt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\bootcampclt.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:bootcampclt.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\application\\productos\\queries\\getproductoshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:application\\productos\\queries\\getproductoshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\application\\productos\\commands\\deleteproductohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:application\\productos\\commands\\deleteproductohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\application\\productos\\commands\\deleteproductocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:application\\productos\\commands\\deleteproductocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\application\\productos\\commands\\updateproductohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:application\\productos\\commands\\updateproductohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\application\\productos\\commands\\updateproductocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:application\\productos\\commands\\updateproductocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\application\\productos\\commands\\createproductohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:application\\productos\\commands\\createproductohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\application\\productos\\commands\\createproductocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:application\\productos\\commands\\createproductocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\application\\productos\\queries\\getproductobyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:application\\productos\\queries\\getproductobyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\application\\productos\\queries\\getproductobyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:application\\productos\\queries\\getproductobyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\application\\productos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:application\\productos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\application\\productos\\queries\\getproductosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:application\\productos\\queries\\getproductosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\domain\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:domain\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|c:\\users\\lenovo\\documents\\projects\\bootcampclt\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05489739-A8B9-3C6D-81C2-76C3B55C3A33}|bootcampCLT.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "deployment.yaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\k8s\\helm\\templates\\deployment.yaml",
+              "RelativeDocumentMoniker": "k8s\\helm\\templates\\deployment.yaml",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\k8s\\helm\\templates\\deployment.yaml",
+              "RelativeToolTip": "k8s\\helm\\templates\\deployment.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-01-14T10:26:12.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "values.yaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\k8s\\helm\\values.yaml",
+              "RelativeDocumentMoniker": "k8s\\helm\\values.yaml",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\k8s\\helm\\values.yaml",
+              "RelativeToolTip": "k8s\\helm\\values.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-01-14T10:18:29.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Chart.yaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\k8s\\helm\\Chart.yaml",
+              "RelativeDocumentMoniker": "k8s\\helm\\Chart.yaml",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\k8s\\helm\\Chart.yaml",
+              "RelativeToolTip": "k8s\\helm\\Chart.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-01-14T10:18:04.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "configmap.yaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\k8s\\helm\\templates\\configmap.yaml",
+              "RelativeDocumentMoniker": "k8s\\helm\\templates\\configmap.yaml",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\k8s\\helm\\templates\\configmap.yaml",
+              "RelativeToolTip": "k8s\\helm\\templates\\configmap.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-01-14T10:12:52.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:33:08.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:47:08.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "secret.yaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\k8s\\helm\\templates\\secret.yaml",
+              "RelativeDocumentMoniker": "k8s\\helm\\templates\\secret.yaml",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\k8s\\helm\\templates\\secret.yaml",
+              "RelativeToolTip": "k8s\\helm\\templates\\secret.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-01-14T10:12:29.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "service.yaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\k8s\\helm\\templates\\service.yaml",
+              "RelativeDocumentMoniker": "k8s\\helm\\templates\\service.yaml",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\k8s\\helm\\templates\\service.yaml",
+              "RelativeToolTip": "k8s\\helm\\templates\\service.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-01-14T10:26:22.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-17T17:08:18.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "postgres-service.yaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\postgres-service.yaml",
+              "RelativeDocumentMoniker": "postgres-service.yaml",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\postgres-service.yaml",
+              "RelativeToolTip": "postgres-service.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-01-14T08:33:45.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "postgres-deployment.yaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\postgres-deployment.yaml",
+              "RelativeDocumentMoniker": "postgres-deployment.yaml",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\postgres-deployment.yaml",
+              "RelativeToolTip": "postgres-deployment.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-01-14T08:32:30.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-17T22:54:25.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bootcampCLT.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\bootcampCLT.csproj",
+              "RelativeDocumentMoniker": "bootcampCLT.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\bootcampCLT.csproj*",
+              "RelativeToolTip": "bootcampCLT.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-11T23:11:16.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "bootcampCLT.http",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\bootcampCLT.http",
+              "RelativeDocumentMoniker": "bootcampCLT.http",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\bootcampCLT.http",
+              "RelativeToolTip": "bootcampCLT.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-17T17:15:08.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:15:10.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-17T22:55:48.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvy0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:29:15.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetProductosHandler.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Application\\Productos\\Queries\\GetProductosHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Productos\\Queries\\GetProductosHandler.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Application\\Productos\\Queries\\GetProductosHandler.cs",
+              "RelativeToolTip": "Application\\Productos\\Queries\\GetProductosHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:46:39.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetProductoByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Application\\Productos\\Queries\\GetProductoByIdHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Productos\\Queries\\GetProductoByIdHandler.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Application\\Productos\\Queries\\GetProductoByIdHandler.cs",
+              "RelativeToolTip": "Application\\Productos\\Queries\\GetProductoByIdHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:53:44.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateProductoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Application\\Productos\\Commands\\UpdateProductoCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Productos\\Commands\\UpdateProductoCommand.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Application\\Productos\\Commands\\UpdateProductoCommand.cs",
+              "RelativeToolTip": "Application\\Productos\\Commands\\UpdateProductoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:55:47.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateProductoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Application\\Productos\\Commands\\UpdateProductoHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Productos\\Commands\\UpdateProductoHandler.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Application\\Productos\\Commands\\UpdateProductoHandler.cs",
+              "RelativeToolTip": "Application\\Productos\\Commands\\UpdateProductoHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:56:08.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DeleteProductoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Application\\Productos\\Commands\\DeleteProductoCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Productos\\Commands\\DeleteProductoCommand.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Application\\Productos\\Commands\\DeleteProductoCommand.cs",
+              "RelativeToolTip": "Application\\Productos\\Commands\\DeleteProductoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:57:34.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetProductoByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Application\\Productos\\Queries\\GetProductoByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Productos\\Queries\\GetProductoByIdQuery.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Application\\Productos\\Queries\\GetProductoByIdQuery.cs",
+              "RelativeToolTip": "Application\\Productos\\Queries\\GetProductoByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:53:10.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DeleteProductoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Application\\Productos\\Commands\\DeleteProductoHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Productos\\Commands\\DeleteProductoHandler.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Application\\Productos\\Commands\\DeleteProductoHandler.cs",
+              "RelativeToolTip": "Application\\Productos\\Commands\\DeleteProductoHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:58:01.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateProductoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Application\\Productos\\Commands\\CreateProductoHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Productos\\Commands\\CreateProductoHandler.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Application\\Productos\\Commands\\CreateProductoHandler.cs",
+              "RelativeToolTip": "Application\\Productos\\Commands\\CreateProductoHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:47:55.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateProductoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Application\\Productos\\Commands\\CreateProductoCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Productos\\Commands\\CreateProductoCommand.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Application\\Productos\\Commands\\CreateProductoCommand.cs",
+              "RelativeToolTip": "Application\\Productos\\Commands\\CreateProductoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:47:11.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetProductosQuery.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Application\\Productos\\Queries\\GetProductosQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Productos\\Queries\\GetProductosQuery.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Application\\Productos\\Queries\\GetProductosQuery.cs",
+              "RelativeToolTip": "Application\\Productos\\Queries\\GetProductosQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:45:15.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Application\\Productos\\ProductoDTO.cs",
+              "RelativeDocumentMoniker": "Application\\Productos\\ProductoDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Application\\Productos\\ProductoDTO.cs",
+              "RelativeToolTip": "Application\\Productos\\ProductoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:43:27.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Domain\\Entities\\Categoria.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Categoria.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Domain\\Entities\\Categoria.cs",
+              "RelativeToolTip": "Domain\\Entities\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:26:40.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Domain\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Producto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Domain\\Entities\\Producto.cs",
+              "RelativeToolTip": "Domain\\Entities\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:26:17.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\projects\\bootcampCLT\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-03T23:41:39.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
