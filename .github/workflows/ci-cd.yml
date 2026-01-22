@@ -23,13 +23,13 @@ jobs:
           dotnet-version: "10.0.x"
 
       - name: Restore
-        run: dotnet restore ./BootcampCLT.sln
+        run: dotnet restore ./bootcampCLT.slnx
 
       - name: Build
-        run: dotnet build ./BootcampCLT.sln -c Release --no-restore
+        run: dotnet build ./bootcampCLT.slnx -c Release --no-restore
 
       - name: Test
-        run: dotnet test ./BootcampCLT.sln -c Release --no-build
+        run: dotnet test ./bootcampCLT.slnx -c Release --no-build
 
       - name: Login Docker Hub
         uses: docker/login-action@v3
@@ -39,8 +39,8 @@ jobs:
 
       - name: Build and Push image
         run: |
-          docker build -t 19942709/bootcampclt-api:${{ steps.meta.outputs.tag }} .
-          docker push 19942709/bootcampclt-api:${{ steps.meta.outputs.tag }}
+          docker build -t castalex03/bootcampclt:${{ steps.meta.outputs.tag }} .
+          docker push castalex03/bootcampclt:${{ steps.meta.outputs.tag }}
 
   cd:
     needs: ci
